@@ -14,7 +14,7 @@ Zeno's paradoxes, formulated over two millennia ago by the Greek philosopher Zen
 
 ### Achilles and the Tortoise
 
-This Python code simulates the famous paradox of Achilles and the Tortoise, where Achilles, a faster runner, attempts to catch up with the Tortoise, which has a head start. The code defines two classes:
+#### The code defines two classes:
 
 Athlete: Represents an athlete with a name, speed, and position. The athlete can move forward and print their current position.
 
@@ -25,7 +25,7 @@ The code then creates an instance of the Race class with a course distance of 50
 This code illustrates the classical paradox in a simple Python program, demonstrating the concept of infinite tasks required for Achilles to catch the Tortoise, even though Achilles is faster.
 
 ### The Dichootomy Paradox
-This paradox questions the precise moment when a moving arrow reaches its target. The script uses a loop to divide the arrow's motion into increasingly smaller steps until it finally reaches the target.
+
 
 his Python code illustrates the classic paradox involving a rock being thrown towards a tree. The code defines a function:
 
@@ -39,7 +39,7 @@ This code provides a simple Python implementation of Zeno's paradox, showcasing 
 
 
 ### The Arrow Paradox
-This paradox examines how an archer can reach a target by continuously dividing the remaining distance by two at each step. The script models this process using an Archer class that advances toward the target while halving the distance at each step.
+
 
 This Python code simulates an archery scenario where an archer named "Arrow" shoots an arrow towards a target. The code defines a class:
 
